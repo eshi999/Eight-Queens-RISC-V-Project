@@ -1,4 +1,4 @@
-#__EIGHT QUEENS PROBLEM__
+# __EIGHT QUEENS PROBLEM__
 
 The eight queens problem is a classic coding problem. The goal is to place
 eight chess queens on an 8×8 chessboard and no two queens threaten each
